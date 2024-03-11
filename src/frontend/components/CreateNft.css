@@ -1,0 +1,13 @@
+.division {
+    background-image: url('../images/image-3.webp');
+    width: 1300px;
+    height: 400px;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
